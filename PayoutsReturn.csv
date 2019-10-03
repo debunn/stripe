@@ -1,0 +1,26 @@
+post_date,recon_token,currency,amount,return_reason_code,return_reason_text
+20190017,tk_tZmnO,USD,7535,003,Invalid amount
+20190024,tk_n0buA,AUD,6377,005,Account debits unsupported
+20190810,tk_uZMmB,GBP,4299,006,Unknown failure
+20190706,tk_VpDEj,GBP,1035,005,Account debits unsupported
+20190519,tk_SUnGR,CAD,9469,006,Unknown failure
+20190009,tk_fz6ED,EUR,1360,004,Unsupported currency
+20191124,tk_YyZP5,USD,3492,006,Unknown failure
+20190818,tk_4Q99x,AUD,3444,005,Account debits unsupported
+20190108,tk_PCyEW,EUR,8271,005,Account debits unsupported
+20190823,tk_qgkP1,CAD,7239,004,Unsupported currency
+20190906,tk_Zi7xz,EUR,3524,004,Unsupported currency
+20190801,tk_mti4G,GBP,381,006,Unknown failure
+20190801,tk_nNhcw,EUR,1270,001,Invalid account number
+20190806,tk_gMDAU,CAD,9850,005,Account debits unsupported
+20190822,tk_xQjyK,EUR,6754,004,Unsupported currency
+20190022,tk_0a9eS,GBP,3417,004,Unsupported currency
+20190200,tk_nD8dB,CAD,694,002,Invalid routing number
+20190718,tk_8FZaP,EUR,8184,005,Account debits unsupported
+20190215,tk_9jd44,GBP,9205,002,Invalid routing number
+20190323,tk_rPrQ2,USD,9637,005,Account debits unsupported
+20191108,tk_5nkgO,GBP,5271,002,Invalid routing number
+20190702,tk_GcAHp,USD,6275,006,Unknown failure
+20190300,tk_xmuwJ,CAD,9495,006,Unknown failure
+20190422,tk_ffCep,AUD,3353,004,Unsupported currency
+20190119,tk_FGYvN,USD,6618,002,Invalid routing number
